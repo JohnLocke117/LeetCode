@@ -14,7 +14,7 @@ public class FibonacciNumber {
     }
 
     public static void main(String[] args) {
-        int n = 10;
-        System.out.println(classObject.fib(n));
+        int n = 44;
+        System.out.println(classObject.fib(n + 1));
     }
 }
